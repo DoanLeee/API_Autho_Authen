@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\Routing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|d:\\asp.netcore\\routing\\routing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F230E8B8-EA25-4566-BFA7-2CD491763268}|Routing\\Routing.csproj|solutionrelative:routing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Routing\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Routing\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:56:22.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Routing\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Routing\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:46:48.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "Routing\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "Routing\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:24:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Routing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Routing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:22:25.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Routing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Routing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:22:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Routing\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Routing\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:01:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Routing\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Routing\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:01:02.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Routing\\Routing\\Program.cs",
+              "RelativeDocumentMoniker": "Routing\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Routing\\Routing\\Program.cs",
+              "RelativeToolTip": "Routing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:57:57.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

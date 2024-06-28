@@ -1,0 +1,6 @@
+@Exception_Handling_Middleware_HostAddress = http://localhost:5012
+
+GET {{Exception_Handling_Middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

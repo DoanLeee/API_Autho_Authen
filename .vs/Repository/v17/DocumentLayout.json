@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lento\\source\\repos\\Repository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|c:\\users\\lento\\source\\repos\\repository\\repository\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|solutionrelative:repository\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|c:\\users\\lento\\source\\repos\\repository\\repository\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|c:\\users\\lento\\source\\repos\\repository\\repository\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|c:\\users\\lento\\source\\repos\\repository\\repository\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|solutionrelative:repository\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|c:\\users\\lento\\source\\repos\\repository\\repository\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|solutionrelative:repository\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|c:\\users\\lento\\source\\repos\\repository\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CF09B6F-DB0F-4A73-A6E4-ADD3368A7434}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Repository\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Repository\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:12:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:10:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:05:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Repository\\Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:03:05.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Models\\Student.cs",
+              "RelativeToolTip": "Repository\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:57:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\lento\\source\\repos\\Repository\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T08:26:10.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

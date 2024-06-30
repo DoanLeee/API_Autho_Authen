@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD0BC58-61C1-42D4-AC92-F923461C98A8}|DI\\DI.csproj|d:\\asp.netcore\\di\\di\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD0BC58-61C1-42D4-AC92-F923461C98A8}|DI\\DI.csproj|solutionrelative:di\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD0BC58-61C1-42D4-AC92-F923461C98A8}|DI\\DI.csproj|d:\\asp.netcore\\di\\di\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD0BC58-61C1-42D4-AC92-F923461C98A8}|DI\\DI.csproj|solutionrelative:di\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD0BC58-61C1-42D4-AC92-F923461C98A8}|DI\\DI.csproj|d:\\asp.netcore\\di\\di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD0BC58-61C1-42D4-AC92-F923461C98A8}|DI\\DI.csproj|solutionrelative:di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\DI\\DI\\IEmployee.cs",
+              "RelativeDocumentMoniker": "DI\\IEmployee.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\DI\\DI\\IEmployee.cs",
+              "RelativeToolTip": "DI\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:26:39.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\DI\\DI\\Program.cs",
+              "RelativeDocumentMoniker": "DI\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\DI\\DI\\Program.cs",
+              "RelativeToolTip": "DI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:22:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\DI\\DI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "DI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\DI\\DI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "DI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:21:43.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

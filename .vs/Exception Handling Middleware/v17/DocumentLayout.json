@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\ASP.NETCORE\\Exception Handling Middleware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\appnotimplementexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\appnotimplementexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\controllers\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\controllers\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\appnotimplementexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\appnotimplementexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\appexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\appexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\controllers\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|solutionrelative:exception handling middleware\\controllers\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D5A00DA-81CF-46AC-9C22-8E1162DEF0A7}|Exception Handling Middleware\\Exception Handling Middleware.csproj|d:\\asp.netcore\\exception handling middleware\\exception handling middleware\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppNotImplementExceptionHandler.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Exception Handling Middleware\\Exception Handling Middleware\\AppNotImplementExceptionHandler.cs",
               "RelativeDocumentMoniker": "Exception Handling Middleware\\AppNotImplementExceptionHandler.cs",
@@ -55,18 +55,17 @@
               "RelativeToolTip": "Exception Handling Middleware\\ErrorResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T04:10:44.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T04:10:44.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Exception Handling Middleware\\Exception Handling Middleware\\Program.cs",
               "RelativeDocumentMoniker": "Exception Handling Middleware\\Program.cs",
               "ToolTip": "D:\\ASP.NETCORE\\Exception Handling Middleware\\Exception Handling Middleware\\Program.cs",
               "RelativeToolTip": "Exception Handling Middleware\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T03:51:41.18Z",
               "EditorCaption": ""
@@ -79,14 +78,14 @@
               "RelativeDocumentMoniker": "Exception Handling Middleware\\AppExceptionHandler.cs",
               "ToolTip": "D:\\ASP.NETCORE\\Exception Handling Middleware\\Exception Handling Middleware\\AppExceptionHandler.cs",
               "RelativeToolTip": "Exception Handling Middleware\\AppExceptionHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T03:36:59.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Employees.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Exception Handling Middleware\\Exception Handling Middleware\\Controllers\\Employees.cs",
               "RelativeDocumentMoniker": "Exception Handling Middleware\\Controllers\\Employees.cs",

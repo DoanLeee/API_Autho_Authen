@@ -8,7 +8,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddExceptionHandler<AppExceptionHandler>();
+
+builder.Services.AddExceptionHandler<AppExceptionHandle>();
 builder.Services.AddExceptionHandler<AppNotImplementExceptionHandler>();
 var app = builder.Build();
 
@@ -18,6 +19,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseHttpsRedirection();
 app.UseExceptionHandler(_=>{ });
 app.UseAuthorization();
 

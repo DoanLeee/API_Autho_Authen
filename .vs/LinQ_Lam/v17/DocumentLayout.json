@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\LinQ_Lam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|d:\\asp.netcore\\linq_lam\\linq_lam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|solutionrelative:linq_lam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|d:\\asp.netcore\\linq_lam\\linq_lam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|solutionrelative:linq_lam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|d:\\asp.netcore\\linq_lam\\linq_lam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|solutionrelative:linq_lam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|d:\\asp.netcore\\linq_lam\\linq_lam\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D07ADFFA-9355-401C-B2BC-CAE76ED59998}|LinQ_Lam\\LinQ_Lam.csproj|solutionrelative:linq_lam\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Form1.resx",
+              "RelativeDocumentMoniker": "LinQ_Lam\\Form1.resx",
+              "ToolTip": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Form1.resx",
+              "RelativeToolTip": "LinQ_Lam\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-01T01:53:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Form1.cs",
+              "RelativeDocumentMoniker": "LinQ_Lam\\Form1.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Form1.cs",
+              "RelativeToolTip": "LinQ_Lam\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:40:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Program.cs",
+              "RelativeDocumentMoniker": "LinQ_Lam\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Program.cs",
+              "RelativeToolTip": "LinQ_Lam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:39:07.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Form1.cs",
+              "RelativeDocumentMoniker": "LinQ_Lam\\Form1.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\LinQ_Lam\\LinQ_Lam\\Form1.cs [Design]",
+              "RelativeToolTip": "LinQ_Lam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:38:53.424Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\bin\Debug\LinQ_Lam.exe.config
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\bin\Debug\LinQ_Lam.exe
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\bin\Debug\LinQ_Lam.pdb
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\obj\Debug\LinQ_Lam.csproj.AssemblyReference.cache
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\obj\Debug\LinQ_Lam.Properties.Resources.resources
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\obj\Debug\LinQ_Lam.csproj.GenerateResource.cache
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\obj\Debug\LinQ_Lam.csproj.CoreCompileInputs.cache
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\obj\Debug\LinQ_Lam.exe
+D:\ASP.NETCORE\LinQ_Lam\LinQ_Lam\obj\Debug\LinQ_Lam.pdb
